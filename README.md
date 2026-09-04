@@ -247,6 +247,10 @@ https://github.com/user-attachments/assets/12345678-abcd-1234-abcd-123456789abc
 
 Divya Benarji
 
+Electronics and Communication Engineering
+
+Megha Institute Of Engineering And Technology For Women
+
 ---
 
 ## 📌 Project Summary
