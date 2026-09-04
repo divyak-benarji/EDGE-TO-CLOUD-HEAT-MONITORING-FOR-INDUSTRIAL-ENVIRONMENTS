@@ -208,9 +208,10 @@ EDGE-TO-CLOUD-HEAT-MONITORING-FOR-INDUSTRIAL-ENVIRONMENTS/
 
 ---
 
-## 📸 Project Images
+## 📸 Project Video
 
-<img width="592" height="297" alt="System Block Diagram" src="https://github.com/user-attachments/assets/8f6751a0-a13c-4dcc-9291-2be6c74796cd" />
+![Uploading IMG_5779.jpg…]()
+
 
 ---
 
