@@ -210,8 +210,8 @@ EDGE-TO-CLOUD-HEAT-MONITORING-FOR-INDUSTRIAL-ENVIRONMENTS/
 
 ## 📸 Project Images
 
-<img width="1080" height="2460" alt="Screenshot_2026-09-04-15-30-02-224_com whatsapp jpg" src="https://github.com/user-attachments/assets/472ddedd-f371-43f6-8ea6-380b2d4063af" />
 <img width="1080" height="2460" alt="Screenshot_2026-09-04-15-28-18-008_com whatsapp jpg" src="https://github.com/user-attachments/assets/2ad57f66-59f5-43d4-8359-73c3da3dff7f" />
+<img width="1080" height="2460" alt="Screenshot_2026-09-04-15-30-02-224_com whatsapp jpg" src="https://github.com/user-attachments/assets/472ddedd-f371-43f6-8ea6-380b2d4063af" />
 
 ---
 
