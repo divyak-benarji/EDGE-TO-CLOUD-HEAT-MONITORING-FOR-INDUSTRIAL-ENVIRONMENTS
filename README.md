@@ -210,7 +210,7 @@ EDGE-TO-CLOUD-HEAT-MONITORING-FOR-INDUSTRIAL-ENVIRONMENTS/
 
 ## 📸 Project Video
 
-![Uploading IMG_5779.jpg…]()
+
 
 
 ---
