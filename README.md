@@ -243,6 +243,10 @@ https://github.com/user-attachments/assets/12345678-abcd-1234-abcd-123456789abc
 
 ---
 
+##👩‍💻 Author
+
+Divya Benarji
+
 ## 📌 Project Summary
 
 **Edge-to-Cloud Heat Monitoring for Industrial Environments** demonstrates the integration of embedded systems, environmental sensing, wireless communication, and cloud-based IoT monitoring.
